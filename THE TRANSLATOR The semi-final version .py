@@ -16,7 +16,7 @@ window = QWidget()
 # GET WIDTH AND HEIGHT
 Width = window.width()
 Height = window.height()
-print(Width,Height)
+
 # SET A WINDOW TITLE ( " The Translator Program in Python with Gui " )
 window.setWindowTitle(" The Translator Program in Python with Gui ")
 
